@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">TVBox</string>
+    <string name="app_name">倩倩影视</string>
     <string name="app_home">首页</string>
-    <string name="app_source"></string>
+    <string name="app_source">http://www.饭太硬.net/tv</string>
 
     // Home Page //
     <string name="hm_ok">加载成功</string>
@@ -13,15 +13,15 @@
     <string name="hm_exit_live">再按一次返回键退出直播</string>
     <string name="hm_date1">MM月dd日</string>
     <string name="hm_date2">EE HH:mm</string>
-    <string name="hm_hist">历史</string>
-    <string name="hm_live">直播</string>
     <string name="hm_search">搜索</string>
-    <string name="hm_push">推送</string>
-    <string name="hm_file">文件</string>
     <string name="hm_fav">收藏</string>
+    <string name="hm_hist">历史</string>
+<!--    <string name="hm_live">直播</string>-->
+<!--    <string name="hm_push">推送</string>-->
+<!--    <string name="hm_file">文件</string>-->
     <string name="hm_setting">设置</string>
-    <string name="hm_style_line">单行显示</string>
-    <string name="hm_style_grid">多行显示</string>
+<!--    <string name="hm_style_line">单行显示</string>-->
+<!--    <string name="hm_style_grid">多行显示</string>-->
     <string name="hm_hist_del">已删除当前记录</string>
     <string name="hm_cache_del">已删除缓存</string>
 
@@ -48,33 +48,33 @@
     <string name="det_desc">简介</string>
 
     // Settings Menu Page //
-    <string name="mn_config">配置地址</string>
-    <string name="mn_home">数据源</string>
-    <string name="mn_home_show">数据源显示</string>
-    <string name="mn_home_type">推荐</string>
-    <string name="mn_icon">按钮位置</string>
+<!--    <string name="mn_config">配置地址</string>-->
+<!--    <string name="mn_home">数据源</string>-->
+<!--    <string name="mn_home_show">数据源显示</string>-->
+<!--    <string name="mn_home_type">推荐</string>-->
+<!--    <string name="mn_icon">按钮位置</string>-->
     <string name="mn_history_num">历史条数</string>
-    <string name="mn_live_boot">启动时进直播</string>
-    <string name="mn_wall_change">换张壁纸</string>
-    <string name="mn_wall_load">壁纸更换中</string>
-    <string name="mn_wall_reset">重置壁纸</string>
+<!--    <string name="mn_live_boot">启动时进直播</string>-->
+<!--    <string name="mn_wall_change">换张壁纸</string>-->
+<!--    <string name="mn_wall_load">壁纸更换中</string>-->
+<!--    <string name="mn_wall_reset">重置壁纸</string>-->
     <string name="mn_play_type">播放器</string>
     <string name="mn_play_decode">IJK解码</string>
-    <string name="mn_search">搜索展示</string>
+<!--    <string name="mn_search">搜索展示</string>-->
     <string name="mn_ratio">画面缩放</string>
-    <string name="mn_bgplay">后台</string>
-    <string name="mn_preview">窗口预览</string>
+<!--    <string name="mn_bgplay">后台</string>-->
+<!--    <string name="mn_preview">窗口预览</string>-->
     <string name="mn_webview">嗅探Webview</string>
     <string name="mn_render">渲染方式</string>
     <string name="mn_backup">数据备份还原</string>
     <string name="mn_dns">安全DNS</string>
-    <string name="mn_locale">语言</string>
-    <string name="mn_theme">主题</string>
+<!--    <string name="mn_locale">语言</string>-->
+<!--    <string name="mn_theme">主题</string>-->
     <string name="mn_about">关于</string>
     <string name="mn_purify">广告过滤</string>
     <string name="mn_ijk_cache_play">IJK缓存</string>
     <string name="mn_reset">重置</string>
-    <string name="mn_fastsearch">聚搜</string>
+<!--    <string name="mn_fastsearch">聚搜</string>-->
 
     // Settings Dialog Pop-Up //
     <string name="dia_source">请选择数据源</string>
@@ -147,7 +147,7 @@
     <string name="fs_results">搜索结果</string>
     <string name="global_search">全局搜索</string>
     <string name="search">搜索</string>
-    <string name="Select_source">选择搜索源</string>
+<!--    <string name="Select_source">选择搜索源</string>-->
 
     // VOD //
     <string name="vod_audio">切换音轨</string>
